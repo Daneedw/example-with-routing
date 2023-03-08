@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/example-with-routing/static/css/main.c2cab247.css",
-    "main.js": "/example-with-routing/static/js/main.d35e15ef.js",
+    "main.js": "/example-with-routing/static/js/main.263960bb.js",
     "index.html": "/example-with-routing/index.html",
     "main.c2cab247.css.map": "/example-with-routing/static/css/main.c2cab247.css.map",
-    "main.d35e15ef.js.map": "/example-with-routing/static/js/main.d35e15ef.js.map"
+    "main.263960bb.js.map": "/example-with-routing/static/js/main.263960bb.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.d35e15ef.js"
+    "static/js/main.263960bb.js"
   ]
 }
